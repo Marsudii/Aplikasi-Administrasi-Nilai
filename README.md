@@ -1,3 +1,3 @@
 # Aplikasi-Administrasi-Nilai
 
-Tugas Universitas Pamulang _ Pemerograman 1
+Tugas Universitas Pamulang _ Pemrograman 1
